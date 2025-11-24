@@ -42,7 +42,7 @@ admin.site.register(Car,CarAdmin)```
 
 
 ## OUTPUT
-ORM/image.png
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/02533787-e35a-4b02-bdbd-454b3b630b76" />
 
 
 ## RESULT
