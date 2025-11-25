@@ -42,7 +42,8 @@ admin.site.register(Car,CarAdmin)```
 
 
 ## OUTPUT
-<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/02533787-e35a-4b02-bdbd-454b3b630b76" />
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/b149d51d-635e-4429-8b9a-3288c79f68b4" />
+
 
 
 ## RESULT
