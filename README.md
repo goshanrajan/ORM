@@ -23,8 +23,8 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-Model.py
 ```
+Model.py
 from django.db import models
 from django.contrib import admin
 class Car(models.Model):
